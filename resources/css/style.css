@@ -1,8 +1,9 @@
 li {
     background-color: green;
     color: wheat;
-    font: sans serif;
+    font-family: sans serif;
 }
 p {
     background-color: yellow;
+    font: italic;
 }
